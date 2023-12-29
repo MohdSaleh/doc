@@ -1,6 +1,108 @@
+Quote
+
+
+
+
+
+
+
+
+DETASAD
+
+Industrial Area
+
+11495 Riyadh
+
+Ishaque Kolanthodika
+
+Ishaque.Kolanthodika@detasad.com
+
+0500845414
+
+
+
+Quote number SAQ00014834
+
+Dear Sir/Madam,
+
+We thank you for your request and submit the following offer.
+
+
+
+
+
+
+
+
+Name	Rahmathulla Munazhi
+
+E-mail	rahmathulla.munazhi@siemens.com
+
+Phone	+966 (11) 277-8674
+
+Fax	+966 (11) 277-8480
+
+Customer No.	NEW
+
+Valid until	16.12.23
+
+Date	18.11.23
+
+Reference info	Qiddiya DC Project - BMS, PMS & LCS
+
+
+Price setting /price validity 30 Days
+
+All prices are in SAR/USD in accordance with INCOTERMS 2010 unless otherwise specified and agreed in writing inclusive of Siemens standard packing, freight to Saudi Arabia, insurance, storage, inspections by third parties (only if agreed in the scope of supply) , and local transportation within Saudi Arabia.
+Documentation
+
+Documentation is not included in the above prices.
+
+Commissioning
+
+Unless otherwise specified, installation or commissioning are not included in the prices, but can be ordered separately which will be billed at Siemens hourly rates or lump sum basis (as per agreement).
+
+Terms and conditions of delivery DDP Riyadh 14-16 Weeks
+
+To the extent our supplies and/or services offered are covered by an existing agreement, the terms and conditions of that agreement shall apply. All other quotations are made and all other orders are accepted subject to the following terms and conditions and Siemens Limited Saudi Arabia General Conditions of Sale or any other communications agreement related to offer. No other addition thereto or variation therein shall apply be made unless agreed in writing by the parties. To the extent of any conflict between the following terms and conditions and the Conditions of Sale, the following terms and conditions shall prevail.
+
+Export regulations
+
+This quotation is made subject to all necessary Export Licenses and other permissions being obtained by the recipient, from the relevant authorities, for the destination and intended use of the goods and/or services. "Siemens' obligation to fulfill this agreement is subject to the proviso that the fulfillment is not prevented by any impediments arising out of national and international foreign trade and customs requirements or any embargos [or other sanctions]." "Goods labeled with an "AL" not equal to "N" are subject to European or German export authorization when being exported out of the EU. Goods labeled with "ECCN" not equal to "N" are subject US re-export authorization. Even without a label, or with label "AL=N" or "ECCN=N", authorization may be required due to the final end use and destination for which the goods are to be used.
+
+Terms of payment 100% With PO.
+
+Payment shall be made payable to Siemens Limited Saudi Arabia as per agreement, and Siemens Limited reserve the rights to hold or block the release of any order or delivery of materials without any liability thereof unless the settlement of due amounts, and is subject to Siemens Limited Standard T&C for Products Business.
+
+We hope that our offer meets with your approval. If you have any queries or require further information, please do not hesitate to contact us.
+
+Notice: Compliance with legal and internal regulations is an integral part of all business processes at Siemens.
+
+Possible infringements can be reported to our HelpDesk "Tell us" at www.siemens.com/tell-us.
+
+
+
+
+
+
+
+
+Disclaimer: The effect of the Corona virus (COVID-19) on product delivery times.
+
+Although we are working hard to meet the delivery and performance dates mentioned above, temporary delays in delivery and service performance concerning us and/or our suppliers/sub-contractors may occur as a result of the Covid-19 Virus. Therefore, the delivery/performance date (mentioned above) is non-binding. The delivery/performance is subject to uninterrupted supply chain, production and logistics and may be postponed. Also, we have to reserve the right to partial delivery/performance of service. If you have questions, please get in touch with your local Siemens contact.
+
+
+
+
+
+
+
+
+
 
 Page 1 of 8
-Quote
+
+Quote
 
 
 18.11.23
@@ -8,6 +110,90 @@ Page 1 of 8
 SAQ00014834
 
 
+
+
+No.
+Article number
+Quantity
+Unit price
+
+Total price
+1
+6AG4012-2BC30-0AX0
+4 Piece
+Your price per unit
+8,350.85 Saudi
+33,403.40 Saudi
+
+SIMATIC IPC347G (rack PC, 19", 4 U); 2x Gbit Ethernet, 1x DP, 1x
+Discount 2
+Riyal
+Riyal
+
+VGA, 2x USB on the front, 4x USB on the rear, 2x USB internal, 2x
+
+67.63 %
+
+
+serial, 2x PS/2, audio; no DVD +/-RW; 100/240 V industrial power
+
+
+
+
+supply, without power supply cable Core i5-6500 (4C/4T, 3.2 (3.6)
+
+
+
+
+GHz, 6 MB cache); 512 GB SSD; 16 GB DDR4; PS 350W; Windows
+
+
+
+
+10 IoT Enterprise for Pentium/i3/i5;
+
+
+
+
+
+Price Group
+203
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:5A992
+
+
+
+
+Commodity Code
+84715000
+
+
+
+
+Net Weight (Kg)
+17.000
+
+
+
+
+Country of Origin
+CN
+
+
+
+
+Non-binding delivery date
+28.12.23
+
+
+
+
+Non-binding delivery days:
+29 days
 
 
 
@@ -18,10 +204,31 @@ SAQ00014834
 
 SIMATIC IPC547J (rack PC, 19", 4 U); interfaces: 2x USB 3.0 on the front; COM1, audio on the rear side; 7 slots: 5x PCI Express, 2x PCI, temperature and fan monitoring; watchdog; card retainer Core i7-10700E (8C/16T, 2.9 (4.5) GHz, 16 MB cache), mainboard (chipset W480E, 3x Gbit Ethernet, 1x DVI-D, 2x DisplayPort, 6x USB 3.1 Gen.2, 2x USB 2.0 internal, AMT), 1 TB HDD 3.5 SATA and 960 GB SSD 2.5 SATA (for operating system, if M.2 SSD not ordered), enclosure (short) with drive support type C (for internal installation/ 0.2 g vibration, 2 g shock), blue chromated, 100/240 V AC industrial power supply unit, without power supply cable, 32 GB DDR4 SDRAM (2x 16 GB), dual channel, without expansion, Windows 10 IoT Enterprise 2021 LTSC MUI (en/de/fr/it/es), 64-bit for Core i7/i9/Xeon, without expansions,
 
+Price Group
+202
+Export Control Regulations
+AL:N/ ECCN:5A992
+Commodity Code
+84715000
+Net Weight (Kg)
+17.000
+Country of Origin
+DE
+Non-binding delivery date
+28.12.23
+Non-binding delivery days:
+29 days
 
 
 
+Your price per unit
+18,466.48 Saudi
+73,865.92 Saudi
+Discount 2
+Riyal
+Riyal
 
+64.95 %
 
 
 
@@ -31,18 +238,134 @@ SIMATIC WinCC Professional V18, max. PowerTags, engineering software in the TIA 
 
 ******************************* content: set (3x DVD + 1x USB)
 
+Price Group
+272
+Export Control Regulations
+AL:N/ ECCN:N
+Commodity Code
+85234910
+Net Weight (Kg)
+0.185
+Country of Origin
+DE
+Non-binding delivery date
+07.12.23
+Non-binding delivery days:
+14 days
+
+
+
+Your price per unit
+18,865.93 Saudi
+18,865.93 Saudi
+Discount 2
+Riyal
+Riyal
+
+64.42 %
+
+
+
+4
+6ES7822-1AA08-0YA5
+1 Piece
+Your price per unit
+7,560.47 Saudi
+7,560.47 Saudi
+
+SIMATIC STEP 7 Professional V18; floating license; engineering
+Discount 2
+Riyal
+Riyal
+
+software in the TIA Portal; software and documentation on DVD;
+
+69.84 %
+
+
+license key on USB flash drive; class A; 9 languages: de,en,zh
+
+
+
+
+included, fr,es,it,ru,ja,ko as download; executable on Windows
+
+
+
+
+10; Windows 11; Windows Server 2016/2019/2022; for
+
+
+
+
+configuration of SIMATIC S7-1200/1500, SIMATIC S7-
+
+
+
+
+300/400/WinAC, SIMATIC Basic Panels
 
 
 
 
 
+******************************* content: set (4x DVD +
+
+
+
+
+1x USB)
+
+
+
+
+
+Price Group
+265
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+
+
+
+Commodity Code
+85234910
+
+
+
+
+Net Weight (Kg)
+0.225
+
+
+
+
+Country of Origin
+DE
+
+
+
+
+Non-binding delivery date
+07.12.23
+
+
+
+
+Non-binding delivery days:
+14 days
 
 
 
 
 
 Page 2 of 8
-Quote
+
+Quote
 
 
 18.11.23
@@ -50,6 +373,96 @@ Page 2 of 8
 SAQ00014834
 
 
+
+
+No.
+Article number
+Quantity
+Unit price
+
+Total price
+5
+6AV2105-0MA08-0AA0
+4 Piece
+Your price per unit
+21,498.25 Saudi
+85,993.00 Saudi
+
+SIMATIC WinCC RT Professional, 65536 PowerTags V18, runtime
+Discount 2
+Riyal
+Riyal
+
+software in TIA Portal, single license, software and documentation
+
+74.35 %
+
+
+on DVD, license key on USB flash drive, class A, 5 languages (de,
+
+
+
+
+en,fr,es,it), please observe product release: support.industry.
+
+
+
+
+siemens.com entry ID: 109813587
+
+
+
+
+
+******************************* content: set (2x DVD +
+
+
+
+
+1x USB)
+
+
+
+
+
+Price Group
+276
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+
+
+
+Commodity Code
+85234910
+
+
+
+
+Net Weight (Kg)
+0.185
+
+
+
+
+Country of Origin
+DE
+
+
+
+
+Non-binding delivery date
+07.12.23
+
+
+
+
+Non-binding delivery days:
+14 days
 
 
 
@@ -62,32 +475,208 @@ SIMATIC WinCC RT Professional, client for Runtime Professional V18 runtime softw
 
 ******************************* content: set (1x DVD + 1x USB)
 
+Price Group
+276
+Export Control Regulations
+AL:N/ ECCN:N
+Commodity Code
+85234910
+Net Weight (Kg)
+0.165
+Country of Origin
+DE
+Non-binding delivery date
+07.12.23
+Non-binding delivery days:
+14 days
+
+
+
+Your price per unit
+7,307.73 Saudi
+29,230.92 Saudi
+Discount 2
+Riyal
+Riyal
+
+74.35 %
+
+
+
+7
+6AV2107-0EB00-0BB0
+4 Piece
+
+SIMATIC WinCC Server for Runtime Professional Option for WinCC
+
+(TIA Portal) runtime software, single license without SW, without
+
+documentation License key on USB flash drive, Class A
+
+******************************* Content: 1x USB
+
+Price Group
+276
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+Commodity Code
+85235190
+
+Net Weight (Kg)
+0.201
+
+Country of Origin
+DE
+
+Non-binding delivery date
+07.12.23
+
+Non-binding delivery days:
+14 days
+
+
+
+Your price per unit
+10,684.83 Saudi
+42,739.32 Saudi
+Discount 2
+Riyal
+Riyal
+
+74.35 %
+
+
+
+8
+6AV2107-0FB00-0BB0
+2 Piece
+Your price per unit
+10,707.19 Saudi
+21,414.38 Saudi
+
+SIMATIC WinCC Redundancy for Runtime Professional V13 or
+Discount 2
+Riyal
+Riyal
+
+higher Option for WinCC (TIA Portal) runtime software, Single
+
+74.35 %
+
+
+license for 2 installations without SW, without documentation
+
+
+
+
+License key on USB flash drive, Class A
 
 
 
 
 
+******************************* Content: 1x USB
+
+
+
+
+Price Group
+276
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+
+
+
+Commodity Code
+85235190
+
+
+
+
+Net Weight (Kg)
+0.201
+
+
+
+
+Country of Origin
+DE
+
+
+
+
+Non-binding delivery date
+07.12.23
+
+
+
+
+Non-binding delivery days:
+14 days
 
 
 
 
 
+9
+6AV2107-0GD00-0BB0
+4 Piece
+
+SIMATIC WinCC Logging for Runtime Professional 5000 logging
+
+tags Option for WinCC (TIA Portal) runtime software, single license
+
+without SW, without documentation License key on USB flash
+
+drive, Class A ******************************* Content:
+
+1x USB
+
+
+Price Group
+276
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+Commodity Code
+85235190
+
+Net Weight (Kg)
+0.201
+
+Country of Origin
+DE
+
+Non-binding delivery date
+14.12.23
+
+Non-binding delivery days:
+19 days
 
 
 
+Your price per unit
+28,034.39 Saudi
+112,137.56 Saudi
+Discount 2
+Riyal
+Riyal
 
-
-
-
-
-
-
-
+74.35 %
 
 
 
 Page 3 of 8
-Quote
+
+Quote
 
 
 18.11.23
@@ -97,6 +686,293 @@ SAQ00014834
 
 
 
+No.
+Article number
+Quantity
+Unit price
+
+Total price
+10
+6AV6362-3AB00-0BB0
+4 Piece
+Your price per unit
+6,880.00 Saudi
+27,520.00 Saudi
+
+SIMATIC WinCC/DataMonitor, 1 client license (countable), Option
+Discount 2
+Riyal
+Riyal
+
+for WinCC V7.4 or higher, and WinCC Prof. V14 or higher, runtime
+
+74.35 %
+
+
+software, single license, license key on USB flash drive
+
+
+
+
+******************************* Content: 1x USB
+
+
+
+
+Price Group
+276
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+
+
+
+Commodity Code
+85235190
+
+
+
+
+Net Weight (Kg)
+0.148
+
+
+
+
+Country of Origin
+DE
+
+
+
+
+Non-binding delivery date
+07.12.23
+
+
+
+
+Non-binding delivery days:
+14 days
+
+
+
+
+
+
+11
+6EP1333-2BA20
+4 Piece
+
+SITOP PSU100S 24 V/5 A Stabilized power supply input: 120/230 V
+
+AC, output: 24 V DC/5 A *Ex approval no longer available*
+
+Price Group
+582
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+Commodity Code
+85044083
+
+Net Weight (Kg)
+0.400
+
+Country of Origin
+AT
+
+Non-binding delivery date
+07.12.23
+
+Non-binding delivery days:
+14 days
+
+
+
+Your price per unit
+516.48 Saudi
+2,065.92 Saudi
+Discount 2
+Riyal
+Riyal
+
+59.81 %
+
+
+
+12
+6EP1334-2BA20
+44 Piece
+
+SITOP PSU100S 24 V/10 A Stabilized power supply input: 120/230
+
+V AC, output: DC 24 V/10 A *Ex approval no longer available*
+
+Price Group
+582
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+Commodity Code
+85044083
+
+Net Weight (Kg)
+0.700
+
+Country of Origin
+AT
+
+Non-binding delivery date
+14.12.23
+
+Non-binding delivery days:
+19 days
+
+
+
+Your price per unit
+785.05 Saudi
+34,542.20 Saudi
+Discount 2
+Riyal
+Riyal
+
+59.81 %
+
+
+
+13
+6EP1964-2BA00
+2 Piece
+Your price per unit
+263.39 Saudi   526.78 Saudi Riyal
+
+SITOP PSE202U 10A Redundancy module Input/output: 24 V DC
+Discount 2
+Riyal
+
+suitable for decoupling two SITOP power supplies with maximal
+
+54.25 %
+
+per 5 A output current
+
+
+
+
+Price Group
+588
+
+
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+
+
+Commodity Code
+85049090
+
+
+
+Net Weight (Kg)
+0.125
+
+
+
+Country of Origin
+RO
+
+
+
+Non-binding delivery date
+21.12.23
+
+
+
+Non-binding delivery days:
+24 days
+
+
+
+
+14
+6EP4346-7RB00-0AX0
+22 Piece
+
+SITOP RED1200 redundancy module Input/output: 24/48 V DC/20
+
+A Suitable for decoupling two SITOP power supplies with max. 10
+
+A output current each
+
+
+Price Group
+588
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+Commodity Code
+85049090
+
+Net Weight (Kg)
+0.500
+
+Country of Origin
+AT
+
+Non-binding delivery date
+07.12.23
+
+Non-binding delivery days:
+14 days
+15
+6ES7131-6BH01-0BA0
+476 Piece
+
+SIMATIC ET 200SP, Digital input module, DI 16x 24V DC Standard,
+
+type 3 (IEC 61131), sink input, (PNP, P-reading), Packing unit: 1
+
+Piece, fits to BU-type A0, Colour Code CC00, input delay time 0,05.
+
+.20ms, diagnostics wire break, diagnostics supply voltage
+
+Price Group
+255
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+Commodity Code
+85389091
+
+Net Weight (Kg)
+0.036
+
+Country of Origin
+DE
+
+Non-binding delivery date
+21.12.23
+
+
+
+Your price per unit
+385.68 Saudi
+8,484.96 Saudi
+Discount 2
+Riyal
+Riyal
+
+54.25 %
 
 
 
@@ -106,36 +982,20 @@ SAQ00014834
 
 
 
+Your price per unit
+294.52 Saudi
+140,191.52 Saudi
+Discount 2
+Riyal
+Riyal
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+69.24 %
 
 
 
 Page 4 of 8
-Quote
+
+Quote
 
 
 18.11.23
@@ -145,15 +1005,338 @@ SAQ00014834
 
 
 
+No.
+Article number
+Quantity
+Unit price
+
+Total price
+
+Non-binding delivery days:
+24 days
+
+
+
+16
+6ES7132-6BH01-0BA0
+92 Piece
+Your price per unit
+341.96 Saudi
+31,460.32 Saudi
+
+SIMATIC ET 200SP, Digital output module, DQ 16x 24V DC/0,5A
+Discount 2
+Riyal
+Riyal
+
+Standard, Source output (PNP,P-switching) Packing unit: 1 piece,
+
+69.24 %
+
+
+fits to BU-type A0, Colour Code CC00, substitute value output,
+
+
+
+
+module diagnostics for: short-circuit to L+ and ground, wire break,
+
+
+
+
+supply voltage
+
+
+
+
+
+Price Group
+255
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:9N9999
+
+
+
+
+Commodity Code
+85389091
+
+
+
+
+Net Weight (Kg)
+0.035
+
+
+
+
+Country of Origin
+DE
+
+
+
+
+Non-binding delivery date
+18.12.23
+
+
+
+
+Non-binding delivery days:
+21 days
+
+
+
+17
+6ES7134-6FF00-0AA1
+15 Piece
+Your price per unit
+784.50 Saudi
+11,767.50 Saudi
+
+SIMATIC ET 200SP, Analog input module, AI 8XU Basic, suitable
+Discount 2
+Riyal
+Riyal
+
+for BU type A0, A1, Color code CC02, Module diagnostics, 16 bit
+
+69.24 %
+
+
+Price Group
+255
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:9N9999
+
+
+
+
+Commodity Code
+85389091
+
+
+
+
+Net Weight (Kg)
+0.036
+
+
+
+
+Country of Origin
+DE
+
+
+
+
+Non-binding delivery date
+07.12.23
+
+
+
+
+Non-binding delivery days:
+14 days
 
 
 
 
 
 
+18
+6ES7135-6HD00-0BA1
+26 Piece
+
+SIMATIC ET 200SP, Analog output module, AQ 4XU/I Standard,
+
+suitable for BU type A0, A1, Color code CC00, Module diagnostics,
+
+16 bit, +/-0.3%
+
+
+Price Group
+255
+
+Export Control Regulations
+AL:N/ ECCN:9N9999
+
+Commodity Code
+85389091
+
+Net Weight (Kg)
+0.040
+
+Country of Origin
+DE
+
+Non-binding delivery date
+07.12.23
+
+Non-binding delivery days:
+14 days
 
 
 
+Your price per unit
+754.32 Saudi
+19,612.32 Saudi
+Discount 2
+Riyal
+Riyal
+
+69.24 %
+
+
+
+19
+6ES7137-6AA01-0BA0
+63 Piece
+Your price per unit
+1,066.11 Saudi
+67,164.93 Saudi
+
+SIMATIC ET 200SP, CM PTP communication module for serial
+Discount 2
+Riyal
+Riyal
+
+connection RS-422, RS-485 and RS-232, freeport, 3964 (R), USS,
+
+69.24 %
+
+
+MODBUS RTU master, slave, max. 250 Kbit/s, suitable for BU type
+
+
+
+
+A0, pack quantity: 1 unit
+
+
+
+
+
+Price Group
+255
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:9N9999
+
+
+
+
+Commodity Code
+85176200
+
+
+
+
+Net Weight (Kg)
+0.040
+
+
+
+
+Country of Origin
+DE
+
+
+
+
+Non-binding delivery date
+04.01.24
+
+
+
+
+Non-binding delivery days:
+34 days
+
+
+
+20
+6ES7155-6AU01-0CN0
+22 Piece
+Your price per unit
+989.00 Saudi
+21,758.00 Saudi
+
+SIMATIC ET 200SP, PROFINET, 2-port interface module IM 155-
+Discount 2
+Riyal
+Riyal
+
+6PN/2 High Feature, 1 slot for BusAdapter, max. 64 I/O modules
+
+69.24 %
+
+
+and 16 ET 200AL modules, S2 redundancy, multi-hotswap, 0.25
+
+
+
+
+ms, isochronous mode, optional PN strain relief, including server
+
+
+
+
+module
+
+
+
+
+
+Price Group
+255
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:9N9999
+
+
+
+
+Commodity Code
+85176200
+
+
+
+
+Net Weight (Kg)
+0.170
+
+
+
+
+Country of Origin
+DE
+
+
+
+
+Non-binding delivery date
+18.12.23
+
+
+
+
+Non-binding delivery days:
+21 days
 
 
 
@@ -164,7 +1347,8 @@ SAQ00014834
 
 
 Page 5 of 8
-Quote
+
+Quote
 
 
 18.11.23
@@ -172,6 +1356,70 @@ Page 5 of 8
 SAQ00014834
 
 
+
+
+No.
+Article number
+Quantity
+Unit price
+
+Total price
+21
+6ES7193-6AR00-0AA0
+22 Piece
+Your price per unit
+190.02 Saudi
+4,180.44 Saudi
+
+SIMATIC ET 200SP, BusAdapter BA 2xRJ45, 2 RJ45 sockets
+Discount 2
+Riyal
+Riyal
+
+Price Group
+255
+
+69.24 %
+
+
+
+
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:9N9999
+
+
+
+
+Commodity Code
+85369010
+
+
+
+
+Net Weight (Kg)
+0.052
+
+
+
+
+Country of Origin
+DE
+
+
+
+
+Non-binding delivery date
+08.02.24
+
+
+
+
+Non-binding delivery days:
+59 days
 
 
 
@@ -188,10 +1436,90 @@ Your price per unit	51.80 Saudi Riyal	28,075.60 Saudi
 Discount 2	69.24 %	Riyal
 
 
+Price Group
+255
+Export Control Regulations
+AL:N/ ECCN:N
+Commodity Code
+85366990
+Net Weight (Kg)
+0.048
+Country of Origin
+DE
+Non-binding delivery date
+18.12.23
+Non-binding delivery days:
+21 days
 
 
+23
+6ES7193-6BP00-0DA0
+86 Piece
+
+SIMATIC ET 200SP, BaseUnit BU15-P16+A0+2D, BU type A0, push-
+
+in terminals, without aux. terminals, new load group, WxH: 15x
+
+117 mm
 
 
+Price Group
+255
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+Commodity Code
+85366990
+
+Net Weight (Kg)
+0.047
+
+Country of Origin
+DE
+
+Non-binding delivery date
+18.12.23
+
+Non-binding delivery days:
+21 days
+24
+6ES7515-2RN03-0AB0
+4 Piece
+
+SIMATIC S7-1500R, CPU 1515R-2 PN central processing unit with
+
+work memory 1 MB for program and 4.5 MB for data, 1st
+
+interface: PROFINET RT with 2-port switch, 2nd interface:
+
+PROFINET, SIMATIC Memory Card required **** approvals and
+
+certificate according to entry 109815625 at support.industry.
+
+siemens.com to be observed! ****
+
+
+Price Group
+216
+
+Export Control Regulations
+AL:N/ ECCN:EAR99H
+
+Commodity Code
+85371091
+
+Net Weight (Kg)
+0.800
+
+Country of Origin
+DE
+
+Non-binding delivery date
+04.01.24
+
+Non-binding delivery days:
+34 days
 
 
 Your price per unit	91.36 Saudi Riyal	7,856.96 Saudi
@@ -206,10 +1534,73 @@ Discount 2	69.24 %	Riyal
 
 
 
+Your price per unit
+11,504.07 Saudi
+46,016.28 Saudi
+Discount 2
+Riyal
+Riyal
+
+68.15 %
 
 
 
+25
+6ES7590-1AB60-0AA0
+4 Piece
 
+SIMATIC S7-1500, mounting rail 160 mm (approx. 6.3 inch); incl.
+
+grounding screw, integrated DIN rail for mounting of incidentals
+
+such as terminals, automatic circuit breakers and relays
+
+Price Group
+219
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+Commodity Code
+85389099
+
+Net Weight (Kg)
+0.374
+
+Country of Origin
+DE
+
+Non-binding delivery date
+07.12.23
+
+Non-binding delivery days:
+14 days
+26
+6ES7954-8LF03-0AA0
+4 Piece
+
+SIMATIC S7, MEMORY CARD FOR S7-1X00 CPU/SINAMICS, 3,3 V
+
+FLASH, 24 MBYTE
+
+
+Price Group
+212
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+Commodity Code
+85235110
+
+Net Weight (Kg)
+0.029
+
+Country of Origin
+DE
+
+Non-binding delivery date
+07.12.23
 
 
 Your price per unit	60.91 Saudi Riyal	243.64 Saudi Riyal
@@ -224,11 +1615,20 @@ Discount 2	72.58 %
 
 
 
+Your price per unit
+789.66 Saudi
+3,158.64 Saudi
+Discount 2
+Riyal
+Riyal
+
+74.93 %
 
 
 
 Page 6 of 8
-Quote
+
+Quote
 
 
 18.11.23
@@ -236,6 +1636,90 @@ Page 6 of 8
 SAQ00014834
 
 
+
+
+No.
+Article number
+Quantity
+Unit price
+
+Total price
+
+Non-binding delivery days:
+14 days
+
+
+
+27
+6GK1900-0AB10
+9 Piece
+Your price per unit
+526.29 Saudi
+4,736.61 Saudi
+
+C-plug, removable data storage medium For simple device
+Discount 2
+Riyal
+Riyal
+
+replacement in case of fault, for recording configuration or
+
+42.41 %
+
+
+engineering and application data, can be used in the following
+
+
+
+
+SIMATIC NET products with C-plug slot: SCALANCE XC-200, XP-
+
+
+
+
+200, XM-400, XR-500, M-800, W-700, SC-600 and S615.
+
+
+
+
+Price Group
+5W3
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:N
+
+
+
+
+Commodity Code
+85235110
+
+
+
+
+Net Weight (Kg)
+0.027
+
+
+
+
+Country of Origin
+DE
+
+
+
+
+Non-binding delivery date
+07.12.23
+
+
+
+
+Non-binding delivery days:
+14 days
 
 
 
@@ -244,33 +1728,200 @@ SAQ00014834
 
 28	6GK5206-2BS00-2AC2	23 Piece
 
-SCALANCE XC206-2SFP manageable Layer 2 IE switch; IEC 62443-4-2 certified; 6x 10/100 MBit/s RJ45 ports; 2x 100/1000 Mbit/s SFP; 1x console port; diagnostics LED; redundant power supply; temperature range -40 °C to +70 °C; assembly: DIN rail/S7 mounting rail/wall Oﬃce redundancy functions features (RSTP, VLAN,...); PROFINET IO device; Ethernet/IP-compliant; C-plug slot;
+SCALANCE XC206-2SFP manageable Layer 2 IE switch; IEC 62443-4-2 certified; 6x 10/100 MBit/s RJ45 ports; 2x 100/1000 Mbit/s SFP; 1x console port; diagnostics LED; redundant power supply; temperature range -40 ∞C to +70 ∞C; assembly: DIN rail/S7 mounting rail/wall O?ce redundancy functions features (RSTP, VLAN,...); PROFINET IO device; Ethernet/IP-compliant; C-plug slot;
+
+Price Group
+5C2
+Export Control Regulations
+AL:N/ ECCN:5A991X
+Commodity Code
+85176200
+Net Weight (Kg)
+0.520
+Country of Origin
+DE
+Non-binding delivery date
+07.12.23
+Non-binding delivery days:
+14 days
 
 
 
+Your price per unit
+3,737.09 Saudi
+85,953.07 Saudi
+Discount 2
+Riyal
+Riyal
 
-
+41.58 %
 
 
 
 29	6GK5324-0GG10-3AR2	4 Piece
 
-SCALANCE XR324-12M; managed IE switch, 19" rack; 12x 100/1000 Mbit/s 2-port media modules, electrical or optical; LED diagnostics; error signaling Contact; Select/set pushbutton, PROFINET IO device, network management, Integrated redundancy manager, oﬃce features (RSTP, VLAN, IGMP,..) C-plug in scope of delivery Power supply 230 V AC; Ports in the front.
+SCALANCE XR324-12M; managed IE switch, 19" rack; 12x 100/1000 Mbit/s 2-port media modules, electrical or optical; LED diagnostics; error signaling Contact; Select/set pushbutton, PROFINET IO device, network management, Integrated redundancy manager, o?ce features (RSTP, VLAN, IGMP,..) C-plug in scope of delivery Power supply 230 V AC; Ports in the front.
 
 Sucessor:The XR/XRM-300 portfolio is available as successor
 
+Price Group
+5N3
+Export Control Regulations
+AL:N/ ECCN:9N9999
+Commodity Code
+85176200
+Net Weight (Kg)
+6.900
+Country of Origin
+DE
+Non-binding delivery date
+01.02.24
+Non-binding delivery days:
+54 days
+
+
+
+Your price per unit
+8,431.07 Saudi
+33,724.28 Saudi
+Discount 2
+Riyal
+Riyal
+
+44.92 %
+
+
+
+30
+6GK5326-2QS00-3AR3
+15 Piece
+Your price per unit
+13,087.04 Saudi
+196,305.60 Saudi
+
+SCALANCE XR326-2C PoE WG; managed IE Switch; 19" rack; 24 x
+Discount 2
+Riyal
+Riyal
+
+1GE electrical PoE ports 2 x 10GE electrical combo PoE ports;
+
+44.92 %
+
+
+electrical o. optical; LED diagnostics; reset button; console port;
 
 
 
 
+PROFINET device; network management function; Redundancy
 
+
+
+
+Manager; power supply 240 V AC (85 - 264 V).
+
+
+
+
+Price Group
+5N3
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:5A991X
+
+
+
+
+Commodity Code
+85176200
+
+
+
+
+Net Weight (Kg)
+3.000
+
+
+
+
+Country of Origin
+DE
+
+
+
+
+Non-binding delivery date
+07.12.23
+
+
+
+
+Non-binding delivery days:
+14 days
+
+
+
+31
+6GK5991-1AD00-8AA0
+46 Piece
+Your price per unit
+524.32 Saudi
+24,118.72 Saudi
+
+SCALANCE X accessory; Plug-in transceiver SFP991-1; 1x 100
+Discount 2
+Riyal
+Riyal
+
+Mbit/s LC port, optical; multimode optical up to max. 5 km.
+
+44.92 %
+
+
+Price Group
+5N3
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:9N9999
+
+
+
+
+Commodity Code
+85176200
+
+
+
+
+Net Weight (Kg)
+0.068
+
+
+
+
+Country of Origin
+PH
+
+
+
+
+Non-binding delivery date
+07.12.23
 
 
 
 
 
 Page 7 of 8
-Quote
+
+Quote
 
 
 18.11.23
@@ -278,6 +1929,133 @@ Page 7 of 8
 SAQ00014834
 
 
+
+
+No.
+Article number
+Quantity
+Unit price
+
+Total price
+
+Non-binding delivery days:
+14 days
+
+
+
+32
+6GK5991-1AD00-8GA0
+30 Piece
+Your price per unit
+1,048.64 Saudi
+31,459.20 Saudi
+
+SCALANCE X accessory; Active plug-in transceiver SFP991-1A; 1x
+Discount 2
+Riyal
+Riyal
+
+100 Mbit/s LC port, optical; multimode optical up to max. 5 km.
+
+44.92 %
+
+
+Price Group
+5N3
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:5A991X
+
+
+
+
+Commodity Code
+85176200
+
+
+
+
+Net Weight (Kg)
+0.300
+
+
+
+
+Country of Origin
+PH
+
+
+
+
+Non-binding delivery date
+07.12.23
+
+
+
+
+Non-binding delivery days:
+14 days
+
+
+
+33
+6GK5992-2AM00-8AA0
+12 Piece
+Your price per unit
+5,620.72 Saudi
+67,448.64 Saudi
+
+SCALANCE X accessory; Media module MM992-2LD; 2x 1000
+Discount 2
+Riyal
+Riyal
+
+Mbit/s SC-ports, optical; single-mode optical up to max. 10 km.
+
+44.92 %
+
+
+Price Group
+5N3
+
+
+
+
+Export Control Regulations
+AL:N/ ECCN:9N9999
+
+
+
+
+Commodity Code
+85176200
+
+
+
+
+Net Weight (Kg)
+0.143
+
+
+
+
+Country of Origin
+DE
+
+
+
+
+Non-binding delivery date
+11.01.24
+
+
+
+
+Non-binding delivery days:
+39 days
 
 
 
